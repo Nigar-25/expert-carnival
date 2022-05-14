@@ -10,10 +10,11 @@ The following things I am going learn in this course
 1.  Github
 
 **bold**
+
 _italic_
 
 
 ## Heading 2 ##
-Underorder list
+**Underorder list**
 - Uorderlist1
 - List 2
