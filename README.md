@@ -23,4 +23,4 @@ _italic_
 - List 2
 
 ### What is Jekyll ###
-It is a site generator. Refer  [Jeykyll] (https://www.markdownguide.org/tools/jekyll/)
+It is a site generator. Refer  [Jeykyll](https://www.markdownguide.org/tools/jekyll/)
